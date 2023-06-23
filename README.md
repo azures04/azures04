@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is azure and I'm a young dev, from Franceh2>
+<h2 align="left">Hi 👋! My name is azure and I'm a young dev, from Franceh</h2>
 
 ###
 
